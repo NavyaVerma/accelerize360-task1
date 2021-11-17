@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Task 1_18BCE0909_Navya Verma</title>
+    <title>Task 1 - Navya Verma</title>
 
     <style media="screen">
 
